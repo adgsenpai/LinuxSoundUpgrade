@@ -10,6 +10,11 @@ First lets get our `DolbyAtmosEffect.irs` file.
 you can download it by cloning the repo
 `https://github.com/adgsenpai/LinuxDolbyAtmos`
 
+or
+
+you can download the raw file only 
+`https://raw.githubusercontent.com/adgsenpai/LinuxDolbyAtmos/main/DolbyAtmosEffect.irs`
+
 ### ii. Downloading `Pulse Effects` now called `Easy Effects`.
 
 Installing Pulse Effects
