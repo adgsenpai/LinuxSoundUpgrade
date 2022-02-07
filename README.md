@@ -1,3 +1,9 @@
+<p float="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" height="100px">
+
+<img src="https://user-images.githubusercontent.com/45560312/152776106-54ba9465-b393-4dc1-a94a-0b16fa50ac86.png" height="100px">
+</p>
+
 # Linux Dolby Atmos
 
 a guide to enable Dolby Atmos on linux.
