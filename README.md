@@ -52,7 +52,7 @@ First thing you are going to do is allow the service to run when system boots yo
 
 Enable the Dolby Atmos Effect
 
-and the left menu you see `Applications` or `Limiter` thats the menu im talking about. Scroll down until you see the `Convolver Effect` once there
+on the left menu you see `Applications` or `Limiter` thats the menu im talking about. Scroll down until you see the `Convolver Effect` once there
 
 You will see this screen
 
