@@ -8,7 +8,7 @@
 
 a guide to enable Dolby Atmos on linux.
 
-## Installation 
+## Install
 
 ### i. Downloading Effect 
 First lets get our `DolbyAtmosEffect.irs` file.
