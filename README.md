@@ -1,25 +1,23 @@
 <p float="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" height="100px">
 
-<img src="https://user-images.githubusercontent.com/45560312/152776106-54ba9465-b393-4dc1-a94a-0b16fa50ac86.png" height="100px">
-</p>
 
-# Linux Dolby Atmos
+# Linux SoundUpgrade
 
-a guide to enable Dolby Atmos on linux.
+a guide to enable SoundUpgrade on linux.
 
 ## Installation 
 
 ### i. Downloading Effect 
-First lets get our `DolbyAtmosEffect.irs` file.
+First lets get our `SoundUpgrade.irs` file.
 
 you can download it by cloning the repo
-`https://github.com/adgsenpai/LinuxDolbyAtmos`
+`https://github.com/adgsenpai/LinuxSoundUpgrade`
 
 or
 
 you can download the raw file only 
-`https://raw.githubusercontent.com/adgsenpai/LinuxDolbyAtmos/main/DolbyAtmosEffect.irs`
+`https://raw.githubusercontent.com/adgsenpai/LinuxSoundUpgrade/main/LinuxSoundUpgrade.irs`
 
 ### ii. Downloading `Pulse Effects` now called `Easy Effects`.
 
@@ -50,7 +48,7 @@ First thing you are going to do is allow the service to run when system boots yo
 
 ![Settings](./Screenshots/Settings.png)
 
-Enable the Dolby Atmos Effect
+Enable the SoundUpgrade Effect
 
 on the left menu you see `Applications` or `Limiter` thats the menu im talking about. Scroll down until you see the `Convolver Effect` once there
 
@@ -58,10 +56,10 @@ You will see this screen
 
 ![Effect](./Screenshots/Effect.png)
 
-now click on the `wave icon` and `import your effect` to the directory of `DolbyAtmosEffect.irs` and `apply it` then `disable` and `enable` `Convolver`
+now click on the `wave icon` and `import your effect` to the directory of `LinuxSoundUpgrade.irs` and `apply it` then `disable` and `enable` `Convolver`
  
 This image will help you out
 
 ![Help](./Screenshots/ImportEffect.png)
 
-Enjoy Dolby Atmos for Linux :-)
+Enjoy SoundUpgrade for Linux :-)
