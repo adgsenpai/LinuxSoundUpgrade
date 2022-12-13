@@ -16,8 +16,7 @@ you can download it by cloning the repo
 
 or
 
-you can download the raw file only 
-`https://raw.githubusercontent.com/adgsenpai/LinuxSoundUpgrade/main/LinuxSoundUpgrade.irs`
+you can [download the raw file directly](https://raw.githubusercontent.com/adgsenpai/LinuxSoundUpgrade/main/SoundUpgrade.irs)
 
 ### ii. Downloading `Pulse Effects` now called `Easy Effects`.
 
